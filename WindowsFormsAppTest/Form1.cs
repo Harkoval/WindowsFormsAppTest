@@ -18,7 +18,7 @@ namespace WindowsFormsAppTest
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)//
+        private void Form1_Load(object sender, EventArgs e)// 
         {
             // Chaîne de connexion à la base de données
             string connectionString = "Server=localhost;Database=test;User Id=root;Password=;";
